@@ -36,11 +36,11 @@ src/
 
 ---
 
-![Exemplo de tela](static/login.png)
-![Exemplo de tela](static/admin.png)
-![Exemplo de tela](static/adicionar.png)
-![Exemplo de tela](static/produto_add.png)
-![Exemplo de tela](static/user_read_only.png)
+![Exemplo de tela](assets/login.png)
+![Exemplo de tela](assets/admin.png)
+![Exemplo de tela](assets/adicionar.png)
+![Exemplo de tela](assets/produto_add.png)
+![Exemplo de tela](assets/user_read_only.png)
 
 
 ## ⚙️ Configuração da Aplicação
